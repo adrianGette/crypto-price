@@ -1,3 +1,5 @@
+Check the price of different cryptocurrencies in real time with this React app. 
+
 See the live app in the following link:
 
 <br>
